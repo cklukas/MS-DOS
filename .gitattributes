@@ -1,0 +1,13 @@
+* -text
+*.ASM encoding=cp437
+*.INC encoding=cp437
+*.H encoding=cp437
+*.INF encoding=cp437
+*.EQU encoding=cp437
+*.INI encoding=cp437
+*.CHG encoding=cp437
+*.LNK encoding=cp437
+*.MAC encoding=cp437
+*.MSG encoding=cp437
+*.C encoding=cp437
+*.SKL encoding=cp437
